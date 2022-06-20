@@ -13,3 +13,8 @@ Desafio de Projeto GIT DIO
 </br>
 [POSTMAN](https://www.postman.com/)
 
+### Outros dados
+Simplesmente dados
+
+#### Sobre
+Sobre todas as informações
